@@ -11,3 +11,4 @@ description = "A CLI tool for '櫻坂46メッセージ', '日向坂46メッセ�
 # handle the edge case from the last release
 # drop an unused branch
 # clarify the control flow
+# match the style used in the rest of the module
